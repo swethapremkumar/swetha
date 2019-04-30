@@ -12,4 +12,6 @@ session_start();
   <h1>To</h1>
 <input type="text" id="mob" ><br>
 <input type="text" id="mob" ><br>
+  <input type="text" id="mob" ><br>
+
   
